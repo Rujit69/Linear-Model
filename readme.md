@@ -74,9 +74,7 @@ grad_c /= n
 m -= α _ grad_m
 c -= α _ grad_c
 
-yaml
-Copy
-Edit
+
 
 ---
 
